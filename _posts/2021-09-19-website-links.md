@@ -37,3 +37,15 @@ def get_links(URL, filetype='.las'):
 
     return links_filetype
 ```
+
+In the project, we then subset the resulting data for links_of_interest. These links_of_interest can then be fed into the function below to get the data itself.
+
+```ruby
+def get_data_from_links(links_of_interest):
+    for a in links_of_interest:
+        if os.path.exists(a):
+            print('file already downloaded')
+        else:
+            full_text = 'wget -np -r -nH -L ' + a
+            os.system(full_text)
+```
