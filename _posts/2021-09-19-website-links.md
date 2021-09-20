@@ -12,7 +12,7 @@ As part of the research work into solar cities, it is often necessary to downloa
 
 The function is available below:
 
-```ruby
+```python
 import requests
 import os
 from bs4 import BeautifulSoup
@@ -42,7 +42,7 @@ def get_links(URL, filetype='.las'):
 
 The resutling links_filetype list of URLs can then be subset through, for instance, an index of LAS files and their spatial coverage. Subsetting the URL list based on a particular spatial area of interest, for example, lowers the storage requirements by not downloading files that are external to the analysis at hand. A resulting links_of_interest list can then be entered into the function below to use wget and actually download the data directly into the working directory. 
 
-```ruby
+```python
 import os as os
 def get_data_from_links(links_of_interest):
     for a in links_of_interest:
