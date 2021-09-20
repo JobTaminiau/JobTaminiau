@@ -1,6 +1,6 @@
 ---
 title: "Script for getting website URLs"
-date: 2019-04-18T15:34:30-04:00
+date: 2021-09-19T21:15:30-04:00
 categories:
   - blog
 tags:
