@@ -4,8 +4,8 @@ layout: splash
 permalink: /splash-page/
 date: 2021-09-21T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_color: "#D7D3D3"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/Wilm.png
   actions:
     - label: "Learn More"
