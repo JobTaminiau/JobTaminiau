@@ -58,7 +58,7 @@ feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "CV Job Taminiau"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'Please use the link below for my CV.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
