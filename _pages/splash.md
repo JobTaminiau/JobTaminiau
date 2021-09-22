@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "I'm a postgraduate researcher working on identifying practical strategies for transformative change to meet our pressing energy and climate change challenges."
 intro: 
-  - excerpt: 'This website provides an overview of the research I've been involved in as well as my personal blog.'
+  - excerpt: "This website provides an overview of the research I've been involved in as well as my personal blog."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -22,13 +22,13 @@ feature_row:
     excerpt: "One area of research I've been involved in is the investigation of city-wide solar photovoltaic potential."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Savings City"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+    title: "Utility of the Future"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
