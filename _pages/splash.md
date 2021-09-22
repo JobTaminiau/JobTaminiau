@@ -6,7 +6,7 @@ date: 2021-09-21T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/wilm.gif
+  overlay_image: /assets/images/Wilm.gif
   actions:
     - label: "Learn More"
       url: "/categories/"
