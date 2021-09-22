@@ -5,12 +5,12 @@ permalink: /splash-page/
 date: 2021-09-21T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/Wilm.png
   actions:
     - label: "Learn More"
       url: "/categories/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "LIDAR imagery of downtown Wilmington"
 excerpt: "I'm a postgraduate researcher working on identifying practical strategies for transformative change to meet our pressing energy and climate change challenges."
 intro: 
   - excerpt: "This website provides an overview of the research I've been involved in as well as my personal blog."
