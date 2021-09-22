@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Job Taminiau
-email:
+email: jt@freefutures.org
 description: >- # this means to ignore newlines until "baseurl:"
   Energy & Climate Policy Analyst. Writer. Pursuing Transformative Change.
 twitter_username: JobTaminiau
@@ -62,15 +62,15 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://jobtaminiau.github.io/JobTaminiau/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/JobTaminiau"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/JobTaminiau/"
+    - label: "CV"
+      icon: "fab fa-fw fa-file"
       url: "https://instagram.com/"
 
 footer:
