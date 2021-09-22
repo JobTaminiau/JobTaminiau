@@ -7,9 +7,6 @@ header:
   overlay_color: "#D7D3D3"
   overlay_filter: "0.3"
   overlay_image: /assets/images/Wilm.png
-  actions:
-    - label: "Learn More"
-      url: "/categories/"
   caption: "LIDAR imagery of downtown Wilmington"
 excerpt: "I'm a postgraduate researcher working on identifying practical strategies for transformative change to meet our pressing energy and climate change challenges."
 intro: 
