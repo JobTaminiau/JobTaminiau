@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /splash-page/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -9,5 +11,4 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Home"
-    url: /splash/
+
