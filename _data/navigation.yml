@@ -1,14 +1,17 @@
 main:
   - title: "Home"
     url: /splash-page/
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Publications"
-    url: /publications/
+
 
