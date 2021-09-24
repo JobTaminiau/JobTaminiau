@@ -7,6 +7,12 @@ title: "Publications"
 ---------------
 Taminiau, J., Byrne, J., Kim, J., Kim, M. W., & Seo, J. (2021). Infrastructure‐scale sustainable energy planning in the cityscape: Transforming urban energy metabolism in East Asia. Wiley Interdisciplinary Reviews: Energy and Environment, e397.
 
+Taminiau, J., Byrne, J., Carretero, D. S., Shin, S., & Xu, J. (2021). Risk mitigation in energy efficiency retrofit projects using automated performance control. Sustainable Energy Investment: Technical, Market and Policy Innovations to Address Risk, 35.
+
+**2020**
+---------------
+Taminiau, J., & Byrne, J. (2020). City‐scale urban sustainability: Spatiotemporal mapping of distributed solar power for New York City. Wiley Interdisciplinary Reviews: Energy and Environment, 9(5), e374.
+
 **2018**
 ---------------
 Byrne, J., & Taminiau, J. (2018). Utilizing the urban fabric as the solar power plant of the future. In Urban energy transition (pp. 31-49). Elsevier.
