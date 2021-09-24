@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /splash-page/
-  - title: "CV"
-    url: /resume/
   - title: "Blog"
     url: /posts/
   - title: "Research"
