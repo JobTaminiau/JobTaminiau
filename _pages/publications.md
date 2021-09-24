@@ -23,6 +23,8 @@ Byrne, J., Taminiau, J., Seo, J., Lee, J., & Shin, S. (2017). Are solar cities f
 
 Byrne, J., Taminiau, J., Kim, K. N., Lee, J., & Seo, J. (2017). Multivariate analysis of solar city economics: Impact of energy prices, policy, finance, and cost on urban photovoltaic power plant implementation. Wiley Interdisciplinary Reviews: Energy and Environment, 6(4), e241.
 
+Taminiau, J., Nyangon, J., Lewis, A. S., & Byrne, J. (2017). Sustainable business model innovation: Using polycentric and creative climate change governance. In Collective creativity for responsible and sustainable business practice (pp. 140-159). IGI Global.
+
 **2016**
 ---------------
 Byrne, J., Taminiau, J., Kim, K. N., Seo, J., & Lee, J. (2016). A solar city strategy applied to six municipalities: Integrating market, finance, and policy factors for infrastructure‐scale photovoltaic development in Amsterdam, London, Munich, New York, Seoul, and Tokyo. Wiley Interdisciplinary Reviews: Energy and Environment, 5(1), 68-88.
