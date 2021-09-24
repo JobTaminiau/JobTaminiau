@@ -3,6 +3,14 @@ permalink: /publications/
 title: "Publications"
 ---
 
+**2021**
+---------------
+Taminiau, J., Byrne, J., Kim, J., Kim, M. W., & Seo, J. (2021). Infrastructure‐scale sustainable energy planning in the cityscape: Transforming urban energy metabolism in East Asia. Wiley Interdisciplinary Reviews: Energy and Environment, e397.
+
+**2018**
+---------------
+Byrne, J., & Taminiau, J. (2018). Utilizing the urban fabric as the solar power plant of the future. In Urban energy transition (pp. 31-49). Elsevier.
+
 **2017**
 ---------------
 Byrne, J., Taminiau, J., Seo, J., Lee, J., & Shin, S. (2017). Are solar cities feasible? A review of current research. International Journal of Urban Sciences, 21(3), 239-256.
